@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Years Working</small>
+              <small>2+ Years</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum labore dolores optio sit et aliquam rerum omnis eius voluptatum, harum qui officia vel adipisci aliquid deleniti deserunt laudantium esse ea alias soluta dolorem nobis molestiae. Obcaecati eaque ut nesciunt suscipit.
+          Hello, I'm Jehian Athaya. I am a student with a passion for creating beautiful and functional websites. I like to design with a style following the trend. Besides that, I also like to play video games especially Valorant, and I work out three times a week.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
