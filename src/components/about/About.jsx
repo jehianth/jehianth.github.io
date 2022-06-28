@@ -38,11 +38,9 @@ const About = () => {
               <small>3+ Completed</small>
             </article>
           </div>
-
           <p>
           Hello, I'm Jehian Athaya. I am a student with a passion for creating beautiful and functional websites. I like to design with a style following the trend. Besides that, I also like to play video games especially Valorant, and I work out three times a week.
           </p>
-
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
