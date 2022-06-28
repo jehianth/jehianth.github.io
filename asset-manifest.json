@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e27e726.css",
+    "main.js": "/static/js/main.1ca1ad52.js",
+    "static/media/indonature-web.png": "/static/media/indonature-web.3a545156dccf685782c0.png",
+    "static/media/cook-web.png": "/static/media/cook-web.4c7c4bb50d0172451a48.png",
+    "static/media/gruup-web.png": "/static/media/gruup-web.39ac10c86670c6eaf8ab.png",
+    "static/media/covid19-web.png": "/static/media/covid19-web.bc1289b9173773733442.png",
+    "static/media/covid19-app.png": "/static/media/covid19-app.bd870edf7acf2fa3154e.png",
+    "static/media/weather-app.png": "/static/media/weather-app.23e173c7bc94921270c2.png",
+    "static/media/me.png": "/static/media/me.7842af435a012dddceea.png",
+    "static/media/me-about.jpg": "/static/media/me-about.ddd5a8e0001fd8336373.jpg",
+    "static/media/avatar2.png": "/static/media/avatar2.dbeb1d73b971a36553ba.png",
+    "static/media/avatar3.png": "/static/media/avatar3.3fca5089aa91f5150132.png",
+    "static/media/avatar1.png": "/static/media/avatar1.477d00fae47fbcf3e12a.png",
+    "static/media/avatar4.png": "/static/media/avatar4.87f6e692946d28e30bf2.png",
+    "static/media/cv.pdf": "/static/media/cv.9b076d9cb7076d9c63a1.pdf",
+    "static/media/bg.png": "/static/media/bg.58cf231a5c98c1017904.png",
+    "index.html": "/index.html",
+    "main.0e27e726.css.map": "/static/css/main.0e27e726.css.map",
+    "main.1ca1ad52.js.map": "/static/js/main.1ca1ad52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e27e726.css",
+    "static/js/main.1ca1ad52.js"
+  ]
+}
